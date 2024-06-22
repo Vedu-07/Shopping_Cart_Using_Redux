@@ -1,4 +1,7 @@
 # Created A Simple Shopping Cart Using Redux Toolkit For Better Understanding
+ ## Its Not A Fully Functional Website Just A Simple Application To Understand How Things Works. 
+ 
+
 
 # Getting Started with Create React App
 
